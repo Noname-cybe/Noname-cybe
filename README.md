@@ -1,5 +1,5 @@
 # 💫 About Me:
-interested in computing<br>I'am currently learning
+<br>
 
 
 # 💻 Tech Stack:
